@@ -1,0 +1,17 @@
+#1.1 lab experiment
+a=int(input('enter value'))
+b=int(input('enter value'))
+c=int(input('enter value'))
+Sum=a+b+c
+Avg=sum/3
+Print(sum)
+Print(avg)
+
+
+#expected output
+5
+10
+15
+
+30
+10
