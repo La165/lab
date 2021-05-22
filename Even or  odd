@@ -1,0 +1,15 @@
+# check whether the number is even or odd
+a= int(input("enter value"))
+If a%2=0:
+       Print("a is even")
+Else :
+       Print("a is odd")
+
+
+
+... Expected output:
+Enter value 8
+ a is even
+ 
+Enter value 3
+a is odd
