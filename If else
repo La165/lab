@@ -1,0 +1,22 @@
+#if condition
+Name=raw_input ("enter input ")
+Age=int(raw_input (" enter  age")
+If age>=18:
+         Print ("hello ",name)
+         Print (" eligible for vote ")
+Else:
+         Print(" sorry! Not eligible for vote ")
+
+
+
+
+
+
+....expected output:
+     Lalitha
+      20
+hello lalitha
+Eligible for vote
+   Lalitha
+  17
+Sorry! Not eligible for vote
