@@ -1,0 +1,25 @@
+#check bill amount
+amount=int(input("enter amount")
+print( "the amount is ",amount)
+if n>=1000:
+      d=(amount*10)/100)
+   print("discount on the bill is ", d)
+   print( "bill paid is ", (amount-d))
+elseif (n>=2000) :
+     d=(amount*20)/100) 
+   print("discount on the bill is ",d)
+   print("bill paid is ", (amount-d))
+elseif (n>=3000)
+    d=(amount*30)/100)
+   print(" discount on the bill is ",d)
+   print ("bill paid is", (amount-d))
+else (n>=5000):
+     d=(amount*40)/100)
+   print ("discount on the bill is ",d)
+   print ("bill paid is",(amount-d))
+
+'''Expected output:
+    Enter amount 1000
+The amount is 1000
+Discount on the bill is100
+Bill paid is 900'''
