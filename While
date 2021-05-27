@@ -1,0 +1,14 @@
+#while loop
+Start_ value=int( input("enter  staring value"))
+ End__value=int(input("enter ending  value"))
+ Step count=int(input("enter stepcount value"))
+ While (start<=end):
+ Print( start_value <=end_value)
+ Start_value=start_value+stepcount
+
+'''Expected output:
+enter starting value 1
+enter ending value 10
+enter stepcount value 1
+12345678910
+'''
