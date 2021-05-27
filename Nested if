@@ -1,0 +1,24 @@
+#nested if
+Username=input('Enter usernsme')
+password=input('Enter Password')
+if username=="CSEB":
+    if password=="AEC":
+        print ("VALID STUDENT")
+    else :
+        print ("INVALID PASSWORD")
+else:
+     print("INVALID USERNAME")
+
+
+'''Expected output:
+Enter username CSEB
+Enter password AEC
+VALID STUDENT
+
+Enter username cseb
+Enter password AEC
+INVALID USERNAME
+
+Enter username CSEB
+Enter password lalitha
+INVALID PASSWORD'''
