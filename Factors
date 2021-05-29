@@ -1,0 +1,18 @@
+#factors
+n=int(input("enter number")
+i=2
+While(i<=n)
+  if(n%i==0)
+     Print(i)
+     i+=1
+   
+'''Expected output
+ enter number 12
+1
+2
+3
+4
+6
+12
+'''
+
