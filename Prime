@@ -1,0 +1,17 @@
+#prime or not
+n=int (input("enter number ")
+i=2
+Count=0
+While (n>1)
+If(n%i==0)
+   Count==0
+   Print(" %dis a prime number" %(n))
+   Count+1
+    i+=1
+Else:
+Print ("%dis not a prime number"%(n))
+
+
+'''Expected output
+enter number 7
+ 7 is a  prime number'''
