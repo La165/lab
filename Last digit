@@ -3,7 +3,7 @@ And to find last digit of the result'''
 a=int(input('enter a value '))
 b=int(input('enter b value '))
 c=a**b
-print('%d**%d is %d' %(a,b,c))
+print('a**b is %d' %(a,b,c))
 last_digit=(c%10)
 print('last digit is %d' %(last_digit))
 
@@ -11,6 +11,6 @@ print('last digit is %d' %(last_digit))
 '''Expected output
  enter a value 99
  enter b value 4
- 99**4 is 396
+ a**b is 5476
 last digit is 6 
 ''' 
